@@ -3,7 +3,7 @@
 
 ## Installation
 ```
-pip install -r D:\Stuff\git\DIRK\frittenburger.de\requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
